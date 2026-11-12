@@ -1,4 +1,4 @@
-//package pe.edu.upn.billetera.modelo;
+package pe.edu.upn.billetera.modelo;
 
 public class Movimiento {
 
