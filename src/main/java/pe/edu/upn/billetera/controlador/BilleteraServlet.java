@@ -46,7 +46,7 @@ public class BilleteraServlet extends HttpServlet {
             return;
         }
 
-        // 2. Validar monto vacío
+ 
         if (montoTexto == null || montoTexto.trim().isEmpty()) {
             mostrarError(request, response, "Ingresa un monto.");
             return;
